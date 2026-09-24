@@ -19,12 +19,9 @@
 
 ---
 
-| Certification | Status |
-|:-------------:|:------:|
-| <img src="https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" /> | ✅ |
-| <img src="https://img.shields.io/badge/eJPT-FF6B00?style=for-the-badge&logo=ine&logoColor=white" /> | ✅ |
-| <img src="https://img.shields.io/badge/eCPPT-FF6B00?style=for-the-badge&logo=ine&logoColor=white" /> | 🔄 |
-| <img src="https://img.shields.io/badge/OSCP-000000?style=for-the-badge&logo=offensive-security&logoColor=white" /> | 🎯 |
-| <img src="https://img.shields.io/badge/CEH-0033A0?style=for-the-badge&logo=ec-council&logoColor=white" /> | ✅ |
-| <img src="https://https://img.shields.io/badge/CISSP-000080?style=for-the-badge&logo=isc2&logoColor=white" /> | 📚 |
 
+📊 GitHub Analytics
+<div align="center"> <!-- GitHub Stats --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9"/> <!-- Streak Stats --> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B00&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=C9D1D9"/>
+
+<br><br>
+<!-- Top Languages --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9"/> <!-- GitHub Trophies --> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1"/> </div>
