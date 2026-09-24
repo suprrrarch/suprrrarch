@@ -20,5 +20,8 @@
 ---
 
 
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
+💭 Quote of the Day
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs" alt="Quote" />
+
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/> </div><!-- 🔥 **PRO TIP:** To enable the contribution snake animation, create a GitHub Action: 1. Create `.github/workflows/snake.yml` in your repo 2. Use this workflow: https://github.com/Platane/snk -->
