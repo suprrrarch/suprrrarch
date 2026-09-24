@@ -19,27 +19,12 @@
 
 ---
 
-## 🎯 About Me
+| Certification | Status |
+|:-------------:|:------:|
+| <img src="https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" /> | ✅ |
+| <img src="https://img.shields.io/badge/eJPT-FF6B00?style=for-the-badge&logo=ine&logoColor=white" /> | ✅ |
+| <img src="https://img.shields.io/badge/eCPPT-FF6B00?style=for-the-badge&logo=ine&logoColor=white" /> | 🔄 |
+| <img src="https://img.shields.io/badge/OSCP-000000?style=for-the-badge&logo=offensive-security&logoColor=white" /> | 🎯 |
+| <img src="https://img.shields.io/badge/CEH-0033A0?style=for-the-badge&logo=ec-council&logoColor=white" /> | ✅ |
+| <img src="https://https://img.shields.io/badge/CISSP-000080?style=for-the-badge&logo=isc2&logoColor=white" /> | 📚 |
 
-```python
-class CyberSecurityStudent:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Cybersecurity Student | AI Security Researcher"
-        self.location = "🌍 Earth"
-        self.interests = [
-            "Offensive Security",
-            "AI/ML in Cybersecurity", 
-            "Penetration Testing",
-            "Malware Analysis",
-            "Bug Bounty Hunting",
-            "Red Teaming"
-        ]
-        self.current_focus = "Building AI-powered security tools"
-        self.learning = ["Advanced Persistent Threats", "LLM Security", "Adversarial ML"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's secure the digital world together 🔒")
-
-me = CyberSecurityStudent()
-me.say_hi()
