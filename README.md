@@ -20,6 +20,8 @@
 ---
 
 ## 🎯 About Me
+
+```python
 class CyberSecurityStudent:
     def __init__(self):
         self.name = "Your Name"
