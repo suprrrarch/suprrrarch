@@ -1,21 +1,43 @@
 ## Hi there 👋
 
 <div align="center">
-  
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CyberSec%20%7C%20AI%20%7C%20Offensive%20Security&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20%7C%20Researcher%20%7C%20Breaker%20of%20Things&descAlignY=51&descAlign=62"/>
-  
-  <!-- Animated Typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Red+Team+Enthusiast;AI%2FML+Security+Researcher;Penetration+Tester;Bug+Bounty+Hunter;Always+Learning%2C+Always+Breaking" alt="Typing SVG" />
-  
-  <br><br>
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat&color=0e75b6" alt="Stars" />
-  
+
+<img src="https://raw.githubusercontent.com/suprrrarch/suprrrarch/main/assets/banner.png" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=suprrrarch%40kali;Security+Researcher+%7C+CTF+Player;Linux+%7C+Open+Source+%7C+Hacking;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+
 </div>
+
+---
+
+```bash
+suprrrarch@kali
+---------------
+OS: Kali GNU/Linux Rolling x86_64
+Host: ASUS TUF Gaming F16 FX607VBR_FX677VBR (1.0)
+Kernel: Linux 7.0.12+kali-amd64
+Uptime: 5 mins
+Packages: 2872 (dpkg)
+Shell: zsh 5.9
+Display (B160UAN08.1 ): 1920x1200 in 16", 144 Hz [Built-in]
+DE: GNOME 50.2
+WM: Mutter (Wayland)
+WM Theme: Kali-Dark
+Theme: Fusion [Qt], Kali-Red-Dark [GTK2/3/4]
+Icons: Flat-Remix-Blue-Dark [Qt], Flat-Remix-Red-Dark [GTK2/3/4]
+Font: Cantarell (11pt) [GTK2/3/4]
+Cursor: Adwaita (24px)
+Terminal: kitty 0.48.2
+Terminal Font: DejaVuSansMono (11pt)
+CPU: Intel(R) Core(TM) 5 210H (8+4) @ 4.80 GHz
+GPU 1: NVIDIA GeForce RTX 3050 A Laptop GPU [Discrete]
+GPU 2: Intel Graphics @ 1.40 GHz [Integrated]
+Memory: 2.98 GiB / 15.25 GiB (20%)
+Swap: 0 B / 12.69 GiB (0%)
+Disk (/): 45.16 GiB / 232.52 GiB (19%) - ext4
+Local IP (wlan0): 172.16.142.80/16
+Battery (G513-36): 32% [AC Connected, Charging]
+Locale: en_IN
 
 ---
 
